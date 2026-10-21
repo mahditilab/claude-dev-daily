@@ -1,0 +1,9 @@
+title: Claude Dev Daily
+description: A 10-minute lesson every weekday on what's new in Claude and Claude Code, for developers.
+baseurl: "/claude-dev-daily"
+url: "https://mahditilab.github.io"
+theme: minima
+permalink: /:year/:month/:day/:title/
+exclude:
+  - README.md
+  - curriculum.md
