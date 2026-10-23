@@ -3,7 +3,7 @@
 Used when there is no fresh news. Taken top to bottom; `[x]` = already covered.
 
 - [x] Rules, permissions, hooks, mods: which one to use
-- [ ] CLAUDE.md that earns its place: start with 5 lines, grow by friction
+- [x] CLAUDE.md that earns its place: start with 5 lines, grow by friction
 - [ ] `.claude/rules/` with path-scoped rules and package-by-feature
 - [ ] Plan mode: iterate on the plan, not on the code
 - [ ] Spec first: an interview skill before a big feature
